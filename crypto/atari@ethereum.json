@@ -8,6 +8,9 @@
   "address": "0xdacd69347de42babfaecd09dc88958378780fb62",
   "decimals": 0,
   "logo": "atari.png",
+  "changelly": {
+    "ticker": "atri"
+  },
   "coingecko": {
     "id": "atari",
     "platform": "ethereum"

@@ -3,7 +3,7 @@
   "asset": "tomochain",
   "platform": "ethereum",
   "type": "token",
-  "name": "TomoChain",
+  "name": "TomoChain ERC-20",
   "symbol": "TOMOE",
   "address": "0x05d3606d5c81eb9b7b18530995ec9b29da05faba",
   "decimals": 18,

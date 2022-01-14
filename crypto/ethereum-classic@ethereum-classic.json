@@ -8,6 +8,9 @@
   "decimals": 18,
   "logo": "ethereum-classic.svg",
   "supported": false,
+  "changelly": {
+    "ticker": "etc"
+  },
   "coingecko": {
     "id": "ethereum-classic"
   },

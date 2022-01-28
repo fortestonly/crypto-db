@@ -3,7 +3,7 @@
   "asset": "binance-coin",
   "platform": "binance-chain",
   "type": "coin",
-  "name": "Binance Chain",
+  "name": "BNB",
   "symbol": "BNB",
   "decimals": 8,
   "logo": "binance-chain.svg",
